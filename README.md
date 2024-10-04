@@ -6,22 +6,22 @@ This project is a 3D animation of a paper boat created using OpenGL and GLUT (Op
 
 ## Features
 
-- 3D Visualization: Utilizes OpenGL to render a 3D representation of a paper boat.
-- User Interaction: Allows users to manipulate the animation using keyboard inputs to control rotations and transitions.
-- Dynamic Animation: Implements smooth transitions and realistic folding animations to mimic origami techniques.
-- Customizable Parameters: Users can modify the angles and states of the animation, providing a customizable experience.
+- **3D Visualization**: Utilizes OpenGL to render a 3D representation of a paper boat.
+- **User Interaction**: Allows users to manipulate the animation using keyboard inputs to control rotations and transitions.
+- **Dynamic Animation**: Implements smooth transitions and realistic folding animations to mimic origami techniques.
+- **Customizable Parameters**: Users can modify the angles and states of the animation, providing a customizable experience.
 
 ## Technologies Used
 
-- Programming Language: C
-- Graphics Library: OpenGL
-- Windowing Toolkit: GLUT
+- **Programming Language**: C
+- **Graphics Library**: OpenGL
+- **Windowing Toolkit**: GLUT
 
 ## Installation
 
 To run this project, ensure you have the following installed:
 
-1. C Compiler: GCC or any standard C compiler.
+1. **C Compiler**: GCC or any standard C compiler.
 2. **OpenGL**: Ensure you have OpenGL libraries installed on your system.
 3. **GLUT**: Install the GLUT library for window management and input handling.
 
@@ -66,11 +66,5 @@ The code consists of several key components:
 - Improve the user interface for better interaction.
 - Include sound effects and background music to enhance the experience.
 
-## Acknowledgments
 
-This project was created by **Mallipalli Spurthi Reddy** (1KS19CS051) as part of an academic assignment to explore 3D graphics programming.
-
----
-
-Feel free to customize this README to better suit your project's specifics or your personal touch!
 [Practical Implementation](https://github.com/user-attachments/assets/4bbff6c7-bc3b-4bf6-b281-e66299f63959)
